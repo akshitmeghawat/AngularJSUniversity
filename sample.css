@@ -1,0 +1,26 @@
+
+section nav{
+  float:left;
+  width: 20%;
+}
+h1{
+  text-align: center;
+}
+header{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+section div{
+  float:left;
+  width:80%;
+}
+section div div{
+  float: left;
+  width: 50%;
+}
+footer{
+  text-align: center;
+  clear:left;
+}
